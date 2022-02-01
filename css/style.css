@@ -1,0 +1,87 @@
+@import "null.css";
+
+*{
+	color: hotpink;
+}
+
+span {
+	color: red;
+}
+div{
+	color: olive;
+}
+
+.red{
+	color: red;
+}
+
+.orange {
+	color: orange;
+}
+.yellow{
+	color: yellow;
+}
+
+.green{
+	color: green;
+}
+.blue{
+	color: blue;
+}
+.indigo{
+	color: indigo;
+}
+.violet{
+	color: violet;
+}
+ul{
+	color: magenta;
+}
+
+li{
+	color: lightskyblue;
+}
+
+li a{
+	color: green;
+}
+
+#nocolorized{
+	color: black;
+}
+
+div.method_chain{
+	color: crimson;
+}
+
+.method_unusual_story{
+	color:blue;
+}
+
+.method_locij.spesial_method{
+	color: pink;
+}
+.spesial_method{
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
